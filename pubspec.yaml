@@ -1,7 +1,7 @@
 name: posix_sdk
 description: Sentrax package for BLE connection
 version: 0.0.1
-homepage:
+homepage: https://sentrax.com/
 
 environment:
   sdk: ">=2.17.1 <3.0.0"
@@ -11,6 +11,9 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_blue: ^0.8.0
+  collection: ^1.16.0
+  meta: ^1.8.0
+  convert: ^3.0.2
 
 dev_dependencies:
   flutter_test:
