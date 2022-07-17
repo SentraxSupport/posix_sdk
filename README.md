@@ -2,6 +2,7 @@
 ## Introduction
 
 Posix SDK is a bluetooth plugin for [Flutter](https://flutter.dev), a new app SDK to help developers build modern multi-platform apps.
+Sample app [Github](https://github.com/SentraxSupport/posix_sdk/tree/main/example) link.
 
 ## Cross-Platform Bluetooth LE
 Posix SDK aims to offer the most from both platforms (iOS and Android).

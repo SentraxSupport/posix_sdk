@@ -23,9 +23,7 @@ class PosixSdk {
   }
 
   /// Singleton boilerplate
-  PosixSdk._() {
-    print("initialized FlutraxLed");
-  }
+  PosixSdk._();
 
   static final PosixSdk _instance = PosixSdk._();
 

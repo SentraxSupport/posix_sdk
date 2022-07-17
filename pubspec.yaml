@@ -1,7 +1,9 @@
 name: posix_sdk
-description: Sentrax package for BLE connection
-version: 0.0.1
-homepage: https://sentrax.com/
+description: Posix SDK is a bluetooth plugin for Flutter, a new app SDK to help developers build modern multi-platform apps. Using the Posix SDK instance, you can scan for and check LED to nearby devices.
+version: 0.0.2
+authors:
+  - Sentrax
+homepage: https://github.com/SentraxSupport/posix_sdk
 
 environment:
   sdk: ">=2.17.1 <3.0.0"
@@ -12,7 +14,7 @@ dependencies:
     sdk: flutter
   flutter_blue: ^0.8.0
   collection: ^1.16.0
-  meta: ^1.8.0
+  meta: ^1.7.0
   convert: ^3.0.2
 
 dev_dependencies:
